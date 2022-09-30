@@ -1,3 +1,0 @@
-<?xml version="1.0"?>
-<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
-<metadata xml:lang="es"><Esri><CreaDate>20150615</CreaDate><CreaTime>16531000</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20150305" Time="152316">DefineProjection colombia1 GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] colombia1</Process></lineage></DataProperties><ArcGISFormat>1.0</ArcGISFormat></Esri></metadata>
